@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "90948992255",
+    "project_id": "asistenciagps-80827",
+    "storage_bucket": "asistenciagps-80827.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90948992255:android:83d181329d89b70fd7e0ca",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90948992255-vsm0nb0dnd75dh4qt5ck3o8u10sdjamd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application",
+            "certificate_hash": "abe4a8cad1be23711b180d7d683ab59061afcadb"
+          }
+        },
+        {
+          "client_id": "90948992255-35hrlu7lg4e21pupq0d3rhmicql73crk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGzHT6_YNooVDmTt7zAi6xLBO7wHaLuQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90948992255-35hrlu7lg4e21pupq0d3rhmicql73crk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
